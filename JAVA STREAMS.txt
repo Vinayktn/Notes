@@ -1,0 +1,41 @@
+JAVA STREAMS:
+
+Java streams provide a way to process data in a functional manner. They allow you to perform operations on a collection of elements, such as filtering, mapping, and reducing. Streams are a powerful tool for automation testing, as they make it easier to manipulate and process data in an efficient and concise manner.
+
+Here are some common stream methods used in automation testing, along with examples:
+
+filter(): This method filters a stream based on a given condition. For example, you can use filter() to select only the test cases that have a certain status:
+less
+Copy code
+List<TestCase> testCases = ...;
+List<TestCase> passedTestCases = testCases.stream()
+    .filter(testCase -> testCase.getStatus().equals("PASSED"))
+    .collect(Collectors.toList());
+
+
+map(): This method transforms each element of a stream into a different form. For example, you can use map() to extract the names of all the test cases:
+css
+Copy code
+List<TestCase> testCases = ...;
+List<String> testCaseNames = testCases.stream()
+    .map(TestCase::getName)
+    .collect(Collectors.toList());
+
+
+reduce(): This method aggregates elements of a stream into a single value. For example, you can use reduce() to calculate the total number of test cases:
+css
+Copy code
+List<TestCase> testCases = ...;
+int totalTestCases = testCases.stream()
+    .map(TestCase::getName)
+    .collect(Collectors.toList());
+
+
+sorted(): This method sorts the elements of a stream. For example, you can use sorted() to sort test cases by their execution time:
+css
+Copy code
+List<TestCase> testCases = ...;
+List<TestCase> sortedTestCases = testCases.stream()
+    .sorted(Comparator.comparingLong(TestCase::getExecutionTime))
+    .collect(Collectors.toList());
+ 
