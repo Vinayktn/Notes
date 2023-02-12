@@ -1,0 +1,157 @@
+Selenium java interview questions??
+__________________________________________________________________
+Can you explain the architecture of Selenium?
+How do you handle dynamic elements in Selenium?
+What is the difference between Thread.sleep() and Implicit wait in Selenium?
+How do you handle multiple windows in Selenium?
+How do you handle alerts in Selenium?
+How do you handle dropdown menus in Selenium?
+Can you explain Page Object Model (POM) in Selenium?
+What is the difference between single slash (/) and double slash (//) in Xpath?
+How do you perform right-click using Selenium?
+What is the difference between findElement and findElements in Selenium?
+Can you explain the use of the DesiredCapabilities class in Selenium?
+How do you handle SSL certificates in Selenium?
+Can you explain the difference between assert and verify in Selenium?
+Can you explain how you can run parallel tests in Selenium WebDriver?
+How do you test for broken links in a webpage using Selenium?
+These questions should give you a good starting point for your interview preparation. Keep in mind that the exact questions you will be asked will depend on the company, the specific role, and the experience level they are looking for.
+
+ 
+Selenium java practical interview questions??
+__________________________________________________________________
+
+Write a script to launch a browser and navigate to a specified URL.
+Write a script to locate an element on a webpage using its Xpath and perform a click action on it.
+Write a script to handle a dropdown menu and select an option from the list.
+Write a script to handle an alert and perform an action (accept/dismiss) based on the type of alert.
+Write a script to perform a mouse hover over an element and then click on a sub-element that appears.
+Write a script to verify that a text message is displayed on a webpage.
+Write a script to perform a keyboard key press (e.g. Enter key) on an element.
+Write a script to switch between multiple windows in a browser.
+Write a script to extract data from a table and store it in a List.
+Write a script to take a screenshot of a webpage and save it to a specified location.
+Write a script to handle dynamic elements that may or may not be present on a page.
+Write a script to handle basic authentication pop-up in a browser.
+Write a script to handle cookies in a browser.
+Write a script to perform a drag and drop operation on a webpage.
+Write a script to wait for a specific element to load on a page before performing an action on it.
+These practical questions should give you a hands-on experience with Selenium and Java and help you demonstrate your skills in a technical interview.
+
+
+
+
+ 
+Java interview questions for test engineer??
+__________________________________________________________________
+Can you explain the difference between JUnit and TestNG?
+How do you organize your test cases in a test suite using JUnit or TestNG?
+Can you explain the annotations used in JUnit or TestNG?
+How do you handle exceptions in a test case?
+Can you explain the concept of data-driven testing in Java?
+How do you perform integration testing in Java?
+Can you explain the use of the @Before and @After annotations in JUnit or TestNG?
+Can you explain the difference between @Test and @BeforeMethod annotations in TestNG?
+How do you generate reports for your test cases in Java?
+Can you explain the use of the Assert class in JUnit or TestNG?
+How do you mock objects in Java for testing purposes?
+Can you explain the use of the @DataProvider annotation in TestNG?
+Can you explain the use of the @Factory annotation in TestNG?
+How do you test REST APIs in Java?
+Can you explain the use of the Parameterized runner in JUnit?
+These questions should give you a good starting point for your interview preparation and help you demonstrate your knowledge of Java testing tools and techniques. Keep in mind that the exact questions you will be asked will depend on the company, the specific role, and the experience level they are looking for.
+
+
+
+
+ 
+Core-java interview questions for automation tester
+__________________________________________________________________
+Can you explain the difference between a class and an object in Java?
+Can you explain inheritance and polymorphism in Java?
+Can you explain the use of interfaces in Java?
+Can you explain the difference between a static and non-static method in Java?
+Can you explain the difference between an ArrayList and a LinkedList in Java?
+Can you explain the difference between a HashMap and a Hashtable in Java?
+Can you explain the use of the try-catch block in Java?
+Can you explain the use of the finally block in Java?
+Can you explain the difference between a static and dynamic binding in Java?
+Can you explain the difference between a constructor and a method in Java?
+Can you explain the use of the abstract class in Java?
+Can you explain the difference between a String, a StringBuilder, and a StringBuffer in Java?
+Can you explain the difference between the equals() method and the "==" operator in Java?
+Can you explain the use of the Collections framework in Java?
+Can you explain the difference between a Stack and a Queue in Java?
+These questions should give you a good starting point for your interview preparation and help you demonstrate your knowledge of core Java concepts and their applications in software testing. Keep in mind that the exact questions you will be asked will depend on the company, the specific role, and the experience level they are looking for.
+
+
+
+
+ 
+Java collections interview questions for automation tester
+__________________________________________________________________
+Can you explain the different types of collections in Java?
+Can you explain the use of the List interface in Java?
+Can you explain the difference between an ArrayList and a LinkedList in Java?
+Can you explain the use of the Set interface in Java?
+Can you explain the difference between a HashSet and a TreeSet in Java?
+Can you explain the use of the Map interface in Java?
+Can you explain the difference between a HashMap and a Hashtable in Java?
+Can you explain the difference between a HashMap and a TreeMap in Java?
+Can you explain the use of the Queue interface in Java?
+Can you explain the difference between a Stack and a Queue in Java?
+Can you explain the use of the Deque interface in Java?
+Can you explain the use of the Iterator interface in Java?
+Can you explain the use of the ListIterator interface in Java?
+Can you explain the use of the Comparator interface in Java?
+Can you explain the use of the Comparable interface in Java?
+These questions should give you a good starting point for your interview preparation and help you demonstrate your knowledge of Java Collections and their applications in software testing. Keep in mind that the exact questions you will be asked will depend on the company, the specific role, and the experience level they are looking for.
+
+
+
+
+ 
+common interview java programs asked for automation tester
+__________________________________________________________________
+Write a program to reverse a string in Java.
+Write a program to find the maximum and minimum value in an array.
+Write a program to check if a number is prime or not.
+Write a program to check if a given string is a palindrome.
+Write a program to find the common elements between two arrays.
+Write a program to sort an array in ascending and descending order.
+Write a program to find the second largest number in an array.
+Write a program to check if two strings are anagrams of each other.
+Write a program to find the first non-repeated character in a string.
+Write a program to remove duplicates from an array.
+Write a program to implement a binary search.
+Write a program to calculate the factorial of a number.
+Write a program to find the sum of all the elements in an array.
+Write a program to implement a linked list.
+Write a program to implement a stack and a queue.
+These are just a few examples of the types of programs you may be asked to write in a Java interview for an automation tester. The exact programs you will be asked to write will depend on the company, the specific role, and the experience level they are looking for.
+
+
+
+
+ 
+Here are some common Java programs on collections that may be asked in an interview for an automation tester:
+__________________________________________________________________
+Write a program to sort a list of elements using the Collections framework.
+Write a program to search for a specific element in a list using the Collections framework.
+Write a program to find the maximum and minimum value in a list using the Collections framework.
+Write a program to reverse the elements in a list using the Collections framework.
+Write a program to shuffle the elements in a list using the Collections framework.
+Write a program to find the frequency of elements in a list using the Collections framework.
+Write a program to convert an array to a list using the Collections framework.
+Write a program to find the common elements between two lists using the Collections framework.
+Write a program to compare two lists and find their differences using the Collections framework.
+Write a program to sort a map by its values using the Collections framework.
+Write a program to check if a specific key exists in a map using the Collections framework.
+Write a program to iterate through a map and print its elements using the Collections framework.
+Write a program to remove duplicates from a list using the Collections framework.
+Write a program to sort a set of elements using the Collections framework.
+Write a program to find the union of two sets using the Collections framework.
+These are just a few examples of the types of programs you may be asked to write in a Java interview for an automation tester that involve the use of collections. The exact programs you will be asked to write will depend on the company, the specific role, and the experience level they are looking for.
+
+
+
